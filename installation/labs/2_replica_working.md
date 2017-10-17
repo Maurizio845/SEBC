@@ -1,3 +1,6 @@
+mysql master node:	ip-172-31-26-116.eu-central-1.compute.internal
+mysql replica node:	ip-172-31-22-85.eu-central-1.compute.internal
+
 mysql> SHOW SLAVE STATUS \G
 *************************** 1. row ***************************
                Slave_IO_State: Waiting for master to send event

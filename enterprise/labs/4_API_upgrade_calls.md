@@ -25,10 +25,7 @@ v14
   }, {
     "name" : "minotaur ",
     "roles" : [ "ROLE_CONFIGURATOR" ]
-  }, {
-    "name" : "minotaur01",
-    "roles" : [ "ROLE_CONFIGURATOR" ]
-  } ]
+  }]
 }
 
 

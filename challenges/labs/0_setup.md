@@ -1,9 +1,11 @@
 
 
-# Cloud Provider
+#### Cloud Provider
+AWS
 
+#### Linux Release
+Centos 7.4
 
-##  Linux Release
-
-### Disk space
+#### Disk space
+50GB
 

@@ -1,3 +1,5 @@
+```
+
 [root@ip-172-31-26-116 ~]# kinit maurizio845
 Password for maurizio845@SEBC.COM:
 
@@ -8,3 +10,5 @@ Default principal: maurizio845@SEBC.COM
 Valid starting     Expires            Service principal
 10/19/17 02:02:16  10/20/17 02:02:16  krbtgt/SEBC.COM@SEBC.COM
         renew until 10/26/17 02:02:16, Etype (skey, tkt): aes256-cts-hmac-sha1-96, aes256-cts-hmac-sha1-96
+		
+```

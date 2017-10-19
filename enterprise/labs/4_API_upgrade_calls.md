@@ -1,9 +1,10 @@
+```
+
 [root@ip-172-31-25-67 tmp]# curl -u Maurizio845:cloudera http://ec2-18-194-169-169.eu-central-1.compute.amazonaws.com:7180/api/version
 v14
 
 
 [root@ip-172-31-25-67 tmp]# curl -u Maurizio845:cloudera http://ec2-18-194-169-169.eu-central-1.compute.amazonaws.com:7180/api/v14/cm/version
-
 {
   "version" : "5.9.3",
   "buildUser" : "jenkins",
@@ -14,7 +15,6 @@ v14
 
 
 [root@ip-172-31-25-67 tmp]# curl -u Maurizio845:cloudera http://ec2-18-194-169-169.eu-central-1.compute.amazonaws.com:7180/api/v14/users
-
 {
   "items" : [ {
     "name" : "Maurizio845",
@@ -30,8 +30,9 @@ v14
 
 
 [root@ip-172-31-25-67 tmp]# curl -u Maurizio845:cloudera http://ec2-18-194-169-169.eu-central-1.compute.amazonaws.com:7180/api/v14/cm/scmDbInfo
-
 {
   "scmDbType" : "MYSQL",
   "embeddedDbUsed" : false
 }
+
+```

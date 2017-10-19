@@ -1,3 +1,5 @@
+```
+
 #1
 [root@ip-172-31-29-107 ~]# sysctl vm.swappiness=60
 
@@ -71,4 +73,4 @@ Starting ntpd:                                             [  OK  ]
 [root@ip-172-31-29-107 ~]# service ntpd status
 ntpd (pid  2032) is running...
 
-
+```

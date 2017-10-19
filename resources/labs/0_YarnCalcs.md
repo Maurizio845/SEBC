@@ -1,3 +1,5 @@
+```
+
 Value of operating system is adjusted as 0,075 of total memory that is a reasonable value of 9,6 GB.
 
 yarn.scheduler.maximum-allocation-mb is adjusted to 8192 MB.
@@ -17,3 +19,5 @@ The number of independent physical drives (“spindles”) dedicated to DataNode
 Workload factor is the workload (cpu work) that disks can sustain.
 Increase a workload factor means that the disks can sustain much work therefore a greater number of parallel tasks.
 lower value for workload factor limit number of tasks, So if i have 6 disk with load factor of 2 it can sustain 12 tasks.
+
+```

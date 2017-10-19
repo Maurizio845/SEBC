@@ -1,3 +1,5 @@
+```
+
 mysql master node:	ip-172-31-26-116.eu-central-1.compute.internal
 mysql replica node:	ip-172-31-22-85.eu-central-1.compute.internal
 
@@ -44,3 +46,5 @@ Master_SSL_Verify_Server_Cert: No
   Replicate_Ignore_Server_Ids:
              Master_Server_Id: 1
 1 row in set (0.00 sec)
+
+```

@@ -1,9 +1,9 @@
 ```
-# Cloud Provider
+# <center> Cloud Provider
 
-## Linux Release
+## <center> Linux Release
 
-### Disk space
+### <center> Disk space
 
 
 ```

@@ -7,6 +7,49 @@ AWS
 CentOS Linux release 7.4.1708 (Core)
 
 #### Disk space
+
+##Node1
+[root@ip-172-31-46-9 ~]# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1       60G  880M   60G   2% /
+devtmpfs        7.3G     0  7.3G   0% /dev
+tmpfs           7.3G     0  7.3G   0% /dev/shm
+tmpfs           7.3G   17M  7.3G   1% /run
+tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
+tmpfs           1.5G     0  1.5G   0% /run/user/1000
+
+
+##Node 2
+[root@ip-172-31-34-43 ~]# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1       60G  881M   60G   2% /
+devtmpfs        7.3G     0  7.3G   0% /dev
+tmpfs           7.3G     0  7.3G   0% /dev/shm
+tmpfs           7.3G   17M  7.3G   1% /run
+tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
+tmpfs           1.5G     0  1.5G   0% /run/user/1000
+
+##Node 3
+[root@ip-172-31-41-224 ~]# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1       60G  880M   60G   2% /
+devtmpfs        7.3G     0  7.3G   0% /dev
+tmpfs           7.3G     0  7.3G   0% /dev/shm
+tmpfs           7.3G   17M  7.3G   1% /run
+tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
+tmpfs           1.5G     0  1.5G   0% /run/user/1000
+
+##Node 4
+[root@ip-172-31-41-79 ~]# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1       60G  881M   60G   2% /
+devtmpfs        7.3G     0  7.3G   0% /dev
+tmpfs           7.3G     0  7.3G   0% /dev/shm
+tmpfs           7.3G   17M  7.3G   1% /run
+tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
+tmpfs           1.5G     0  1.5G   0% /run/user/1000
+
+#Node 5
 [root@ip-172-31-39-254 ~]# df -h
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/xvda1       60G  880M   60G   2% /

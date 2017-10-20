@@ -1,5 +1,4 @@
-
-
+```
 #### Cloud Provider
 AWS
 
@@ -41,6 +40,8 @@ siwicki:x:3000:3000::/home/siwicki:/bin/bash
 [root@ip-172-31-34-43 ~]# cat /etc/group | grep -E 'usa|emea'
 usa:x:1001:
 emea:x:1002:
+
+```
 
 
 
